@@ -44,7 +44,7 @@ body {
   color: #F2FAFF;
 }
 
-.skill-row left{
+.skill-row.left{
   width: 50%;
   clear: both;
   margin: 100px auto 100px auto;
@@ -52,7 +52,7 @@ body {
   line-height: 2;
 }
 
-.skill-row right{
+.skill-row.right{
   width: 50%;
   clear: both;
   margin: 100px auto 100px auto;
