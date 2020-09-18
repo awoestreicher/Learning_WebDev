@@ -1,0 +1,186 @@
+
+body {
+  margin: 0;
+  background-color: #F2FAFF;
+  text-align: center;
+  font-family: "Merriweather",
+    serif;
+}
+
+.portrait {
+  width: 250px;
+  height: 250px;
+  margin: 50px auto 0 auto;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #F2FAFF;
+  background-color: #203E57;
+  opacity: 0.8;
+}
+
+.bgimg {
+  background-image: url(../images/BG.jpg);
+  z-index: -1;
+}
+
+.middle-container {
+  margin-top: 100px;
+  line-height: 2;
+}
+
+.bottom-container {
+  margin: 100px 0 0 0;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-color: #2C4963;
+}
+
+.bottom-container>p {
+  margin: 0;
+  color: #F2FAFF;
+}
+
+.skill-row {
+  width: 50%;
+  clear: both;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.python-img {
+  width: 7rem;
+  float: right;
+  margin-left: 30px;
+  padding: 2rem;
+  border-radius: 100%;
+  background-color: #BEDAFA;
+  box-shadow: 0 1px 3px;
+}
+
+.gis-img {
+  width: 7rem;
+  float: left;
+  margin-right: 30px;
+  padding: 2rem;
+  border-radius: 100%;
+  background-color: #E39E22;
+  box-shadow: 0 1px 3px;
+}
+
+.profile {
+  margin-right: 30%;
+  margin-left: 30%;
+  text-align: center;
+}
+
+.contact-me {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+a {
+  color: #E39E22;
+  text-decoration: none;
+}
+
+h1 {
+  margin: 70px auto 50px auto;
+  color: #F2FAFF;
+  font-family: 'Comfortaa',
+    sans-serif;
+  font-size: 4.5rem;
+  font-weight: 100;
+}
+
+h2 {
+  color: #4F6B86;
+  font-family: 'Montserrat',
+    sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #728EAB;
+  font-family: 'Montserrat',
+    sans-serif;
+}
+
+.topcontainerh3 {
+  color: #F2FAFF;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.gistext {
+  color: #E39E22;
+}
+
+.profilepic {
+  width: 200px;
+  border-radius: 50%;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+
+hr {
+  width: 3%;
+  height: 0;
+  margin: 50px auto 50px auto;
+  border-color: #728EAB;
+  border-width: 5px;
+  border-style: dotted none none;
+}
+
+.btn {
+  background-color: #E39E22;
+  color: #F2FAFF;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  margin-top: 50px;
+  display: inline-block;
+  border-radius: 0.5rem;
+  background: #e39f22;
+  background-image: -webkit-linear-gradient(top, #e39f22, #e3ae52);
+  background-image: -moz-linear-gradient(top, #e39f22, #e3ae52);
+  background-image: -ms-linear-gradient(top, #e39f22, #e3ae52);
+  background-image: -o-linear-gradient(top, #e39f22, #e3ae52);
+  background-image: linear-gradient(to bottom, #e39f22, #e3ae52);
+  box-shadow: 0px 1px 3px #666666;
+}
+
+.btn:hover {
+  text-decoration: none;
+  box-shadow: 0px 2px 6px #666666;
+  transition: 0.5s;
+}
+
+.footer-link {
+  margin: 20px;
+  font-family: "Comfortaa", sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  color: #BEDAFA;
+}
+
+.footer-link:hover {
+  color: #e39f22;
+  transition: 0.7s;
+}
+
+.copyright {
+  font-size: 0.7rem;
+}

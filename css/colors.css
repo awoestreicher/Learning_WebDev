@@ -1,0 +1,43 @@
+/*Colors
+#657A8F
+#f78822
+#ffc331
+#f1f2f6
+#dcc7aa
+
+
+#CADDD1
+#272727
+#447E58
+
+#2C4963
+#4F6B86
+#728EAB
+#97B3D2
+#BEDAFA
+
+#F2FAFF
+#F1F1E6
+#E39E22
+
+
+
+*/
+/*display properties: inline,
+block,
+inline-block,
+none (gone),
+hidden (invisible,)*/
+/*Position Properties
+static: default - go along with html rules
+relative: relative to static position. try left=10px, pushes from the left
+    (toward the right) 10px
+    coodinates: top, bottom, left, right
+    when you move it, it doesnt affect anything else on screen
+    top:50px - basically a 50 px margin-top
+absolute positioning: adding a margin to it's parent element. takes the elemen
+  out of the flow of the documents
+fixed: doesnt move when it scrolls - sidebar or navbar
+
+
+*/
