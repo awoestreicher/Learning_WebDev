@@ -44,22 +44,13 @@ body {
   color: #F2FAFF;
 }
 
-.skill-row .left{
+.skill-row {
   width: 50%;
   clear: both;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
 }
-
-.skill-row .right{
-  width: 50%;
-  clear: both;
-  margin: 100px auto 100px auto;
-  text-align: right;
-  line-height: 2;
-}
-
 
 
 .python-img {
